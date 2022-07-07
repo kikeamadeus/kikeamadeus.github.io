@@ -1,0 +1,27 @@
+#Portrait {
+    background-image: url('../img/kikeamadeus1.jpg');
+    background-size: cover;
+}
+#imgPortrait {
+    padding-top: 120px;
+}
+.titlePortrait {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 800;
+    margin: 0;
+    color: #fff;
+}
+.subtitlePortrait {
+    font-family: 'JetBrains Mono';
+    font-weight: 700;
+    color: #fff;
+    margin: 0;
+    margin-top: 10px;
+}
+.linePortrait {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 22px;
+    margin: 0;
+    padding-bottom: 120px;
+}
