@@ -1,0 +1,142 @@
+
+/*::::::::::::::::::::: GENERAL ::::::::::::::::::*/
+.row {
+    margin-bottom: 0px;
+}
+/*:::::::::::::::::::: INICIO ::::::::::::::::::::::*/
+#Portrait {
+    background-image: url('../img/kikeamadeus1.jpg');
+    background-size: cover;
+}
+#imgPortrait {
+    padding-top: 120px;
+}
+.titlePortrait {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 800;
+    margin: 0;
+    color: #fff;
+}
+.subtitlePortrait {
+    font-family: 'JetBrains Mono';
+    font-weight: 700;
+    color: #fff;
+    margin: 0;
+    margin-top: 10px;
+}
+.linePortrait {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 22px;
+    color: #fff;
+    margin: 0;
+    padding-bottom: 120px;
+}
+/*:::::::::::::::: EXPERIENCIA LABORAL :::::::::::::::::::*/
+#widthContainer {
+    width: 90%;
+}
+#SecExp {
+    background-image: url('../img/kikeamadeus2.jpg');
+    background-size: cover;
+}
+#rowExp {
+    padding-bottom: 60px;
+}
+#cardExp {
+    border-radius: 5px;
+}
+.titles {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 800;
+    text-align: center;
+    margin: 0;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.titlesCard {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 800;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 10px;
+}
+label {
+    font-family: 'JetBrains Mono';
+    font-weight: 800;
+}
+.card .card-content .textsCard {
+    font-family: 'JetBrains Mono', sans-serif;
+    font-weight: 500;
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+/*:::::::::::::::::::::: PORTAFOLIO :::::::::::::::::::::*/
+#SecPort {
+    background-image: url('../img/kikeamadeus3.jpg');
+    background-size: cover;
+}
+.titlesPort {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 800;
+    text-align: center;
+    color: #fff;
+    margin: 0;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+#rowPort {
+    padding-bottom: 50px;
+}
+#cardPort {
+    border-radius: 5px;
+}
+.card .card-action:last-child {
+    border-radius: 5px 5px 5px 5px;
+}
+.card .card-title {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 800;
+}
+.card .card-content .cardTextPort {
+    font-family: 'JetBrains Mono', sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    text-align: justify;
+}
+.btn-view {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 800;
+    font-size: 12px;
+    background-color: #369af6;
+    border-radius: 5px;
+    height: 30px;
+    line-height: 30px;
+}
+.btn-view:hover {
+    background-color: #4eaaff;
+}
+/*::::::::::::::::::: HABILIDADES Y CONOCIMIENTOS ::::::::::::::::::::::*/
+#SecHab {
+    background-image: url('../img/kikeamadeus4.jpg');
+    background-size: cover;
+}
+#cardCon {
+    border-radius: 5px;
+}
+.textCon {
+    font-family: 'JetBrains Mono', sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    text-align: justify;
+}
+#rowHab {
+    padding-bottom: 20px;
+}
+/*::::::::::::::::::::::::: FOOTER :::::::::::::::::::::::::::::*/
+.page-footer {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 800;
+    padding-top: 0px;
+    background-color: #2f8add;
+}
